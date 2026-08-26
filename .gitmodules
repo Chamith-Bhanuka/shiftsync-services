@@ -1,0 +1,9 @@
+[submodule "shiftsync-credential-service"]
+	path = shiftsync-credential-service
+	url = https://github.com/Chamith-Bhanuka/shiftsync-credential-service.git
+[submodule "shiftsync-scheduling-service"]
+	path = shiftsync-scheduling-service
+	url = https://github.com/Chamith-Bhanuka/shiftsync-scheduling-service.git
+[submodule "shiftsync-notification-service"]
+	path = shiftsync-notification-service
+	url = https://github.com/Chamith-Bhanuka/shiftsync-notification-service.git
